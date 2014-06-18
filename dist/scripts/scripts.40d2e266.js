@@ -1,0 +1,1 @@
+"use strict";angular.module("brxAppApp",["ngTouch"]),angular.module("brxAppApp").controller("MainCtrl",["$scope",function(a){a.awesomeThings=["HTML5 Boilerplate","AngularJS","Karma"]}]);
